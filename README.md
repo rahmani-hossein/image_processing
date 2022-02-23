@@ -10,7 +10,7 @@ Our refrence was [Digital Image Processing](https://www.amazon.com/Digital-Image
 6. Mean Shift Image segmentation
 7. MultiResolution Image Blending (with Laplacian Stackes)
 8. Poisson Blending
-9. Image morphing
+9. Image Morphing
 
 
 
