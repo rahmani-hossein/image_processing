@@ -5,7 +5,7 @@ Our refrence was [Digital Image Processing](https://www.amazon.com/Digital-Image
 1. Hybrid Images
 2. Image warping
 3. Hough Transform
-4. Image Synthesis (Dynamic Programming)
+4. Texture Synthesis (Dynamic Programming)
 5. Slic Oversegmentation
 6. Mean Shift Image segmentation
 7. MultiResolution Image Blending (with Laplacian Stackes)
