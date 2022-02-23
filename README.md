@@ -3,7 +3,7 @@ In this repo I uploaded some of my fascinating exercises for Image Processing co
 ## Course Materials 
 Our refrence was [Digital Image Processing](https://www.amazon.com/Digital-Image-Processing-Rafael-Gonzalez/dp/0133356728). I will upload all my codes with inputs and outputs to share my work. below list is some of the codes
 1. Hybrid Images
-2. Image warping
+2. Image Warping
 3. Hough Transform
 4. Texture Synthesis (Dynamic Programming)
 5. Slic Oversegmentation
