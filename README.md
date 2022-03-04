@@ -11,7 +11,11 @@ Our refrence was [Digital Image Processing](https://www.amazon.com/Digital-Image
 7. MultiResolution Image Blending (with Laplacian Stackes)
 8. Poisson Blending
 9. Image Morphing
- for [Image Morphing](https://learnopencv.com/face-morph-using-opencv-cpp-python/), I morph Brad Pitt and Anjelina Jolie faces. for having similar points I used Facial Landmark Detectors and i saved them in file()
+  for [Image Morphing](https://learnopencv.com/face-morph-using-opencv-cpp-python/), I morph Brad Pitt and Anjelina Jolie faces. for having similar points I used Facial Landmark     Detectors(dlib library) and i saved them in files(inputs/anjelina.txt and brad.txt) and with input files with same name in Inputs directory i made a film that Anjelina gradually   be Brad!
+  I used Delaunay Triangularization and image warping techniques for this purpose.
+
+ 
+ 
 
 
 
